@@ -15,22 +15,27 @@ This project is currently in development and follows a tentative plan for explor
 - Build an entity-relationship diagram in ERDPlus.  
 - Finalize the relational schema for database integration.  
 
-**Phase 2: SQL Query Analysis**  
+**Phase 2: Advanced Python Analysis**  
+- Conduct higher-level data analysis including statistical testing.  
+- Implement machine learning techniques such as K-means clustering for patient segmentation or pattern discovery.  
+
+**Phase 3: SQL Query Analysis**  
 - Implement the database schema.  
 - Develop SQL queries to extract insights, perform joins, and generate aggregates.  
 - Document initial findings based on query outputs.  
 
-**Phase 3: Dashboard Development (Power BI)**  
+**Phase 4: Dashboard Development (Power BI)**  
 - Connect SQL results or cleaned dataset to Power BI.  
 - Create interactive dashboards to visualize KPIs, trends, and comparisons.  
 
-**Phase 4: Report Preparation (LaTeX)**  
-- Compile methodologies, SQL analyses, and Power BI results.  
+**Phase 5: Report Preparation (LaTeX)**  
+- Compile methodologies, SQL analyses, Python advanced analytics, and Power BI results.  
 - Write a professional academic-style report supported by figures and tables.  
 
 ## Deliverables
 - Cleaned dataset and transformation scripts (Python).  
 - ER diagram and database schema.  
+- Advanced analysis scripts and results (Python).  
 - SQL query set and documented insights.  
 - Power BI dashboards.  
 - Final written report (LaTeX).  
