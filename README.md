@@ -3,9 +3,9 @@
 This project is currently in development and follows a tentative plan for exploring, cleaning, transforming, and analyzing a healthcare dataset using **Python**, **SQL**, **Power BI**, and **LaTeX**. The workflow is structured into phases to provide a clear roadmap from raw data to a professional final report.  
 
 ## Current Progress
-- **Phase 1 (Ongoing): Data Cleaning and Transformation (Python)**  
-  - Handling missing values, standardizing data formats, and preparing features.  
-  - Designing a relational schema using ERDPlus to guide database structure.  
+**Phase 2: Advanced Python Analysis**  
+- Conduct higher-level data analysis including statistical testing.  
+- Implement machine learning techniques such as K-means clustering for patient segmentation or pattern discovery. 
 
 ## Project Phases
 
