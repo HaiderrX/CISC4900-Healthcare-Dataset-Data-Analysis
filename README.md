@@ -1,4 +1,4 @@
-# CISC4900-Healthcare-Dataset-Data-Analysis\
+# CISC4900-Healthcare-Dataset-Data-Analysis
 
 **Author: Muhammad Ali**\
 **Supervisor: Moshe Lach**
