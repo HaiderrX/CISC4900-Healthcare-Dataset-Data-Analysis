@@ -54,7 +54,7 @@
 ## Folder Information:
 ### Code Folder:
 - Contains .ipynb file
-- Contains .sql fil
+- Contains .sql file
 
 ### Dataset Folder:
 - Contains original dataset .csv file
