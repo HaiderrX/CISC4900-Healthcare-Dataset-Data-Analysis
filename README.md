@@ -51,6 +51,22 @@
 - Power BI dashboards.  
 - Final written report (LaTeX).  
 
+## Folder Information:
+### Code Folder:
+- Contains .ipynb file
+- Contains .sql fil
+
+### Dataset Folder:
+- Contains original dataset .csv file
+- Contains cleaned dataset .csv file
+
+### Diagrams Folder:
+- Contains ER Diagram of tables that would be used for SQL
+- Contains the schema for the ER Diagram for SQL
+
+## Written Report Folder:
+- Contains written report of analysis made so far in .pdf file using Latex
+
 ## Installation and Usage Instructions
 
 ### 1. Jupyter Notebook (.ipynb)
