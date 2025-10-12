@@ -1,4 +1,7 @@
-# CISC4900-Healthcare-Dataset-Data-Analysis
+# CISC4900-Healthcare-Dataset-Data-Analysis\
+
+### Author: Muhamamd Ali
+### Supervisor: Moshe Lach
 
 This project is currently in development and follows a tentative plan for exploring, cleaning, transforming, and analyzing a healthcare dataset using **Python**, **SQL**, **Power BI**, and **LaTeX**. The workflow is structured into phases to provide a clear roadmap from raw data to a professional final report.  
 
