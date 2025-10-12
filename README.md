@@ -5,7 +5,7 @@
 
 **Description:** This project is currently in development and follows a tentative plan for exploring, cleaning, transforming, and analyzing a healthcare dataset using **Python**, **SQL**, **Power BI**, and **LaTeX**. The workflow is structured into phases to provide a clear roadmap from raw data to a professional final report.
 
-**Technologies Used:** Python, SQL, Power BI, Latex
+**Technologies Used:** Python, SQL, Power BI, LaTeX
 
 **Python Libararies Used:** numpy, seaborn, scipy, matplotlib, pandas
 
@@ -65,7 +65,7 @@
 - Contains the schema for the ER Diagram for SQL
 
 ### Written Report Folder:
-- Contains written report of analysis made so far in .pdf file using Latex
+- Contains written report of analysis made so far in .pdf file using LaTeX
 
 ## Installation and Usage Instructions
 
