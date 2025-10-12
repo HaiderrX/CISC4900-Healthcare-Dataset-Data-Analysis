@@ -70,7 +70,7 @@
 ## Installation and Usage Instructions
 
 ### 1. Jupyter Notebook (.ipynb)
-- **Requirements:** Python 3.x, Jupyter, and required libraries (see `requirements.txt` if provided).
+- **Requirements:** Python 3.x, Jupyter, and required libraries.
 - **Setup:**
   1. Clone the repository:
       ```
@@ -96,7 +96,7 @@
   - Run the provided SQL scripts in order (refer to info/comments in the file) to create tables, insert data, and perform analysis.
 
 ### 3. Final Report (PDF)
-- The report (`Heathcare_Data_Analysis_Report.pdf`) is provided in the `/docs` or root directory.
+- The report (`Heathcare_Data_Analysis_Report.pdf`) is provided in the `/Written Report` directory.
 - Open in any PDF viewer to read the methodologies, findings, and visualizations.
 
 ---
