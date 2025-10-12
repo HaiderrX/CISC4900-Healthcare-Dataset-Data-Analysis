@@ -33,7 +33,7 @@
   4. Open the relevant `.ipynb` files to begin analysis.
 
 ### 2. SQL Scripts
-- **Requirements:** MySQL or another SQL-compatible database.
+- **Requirements:** MySQL or another SQL-compatible database (SQL Server Management Studio).
 - **Setup:**
   - Set up the database using the schema SQL file (see Phase 1 deliverables).
   - Connect to your database with a SQL tool (e.g., DBeaver, MySQL Workbench).
