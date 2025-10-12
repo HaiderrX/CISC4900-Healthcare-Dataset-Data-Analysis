@@ -21,18 +21,14 @@
       python -m venv venv
       source venv/bin/activate  # On Windows: venv\Scripts\activate
       ```
-  3. Install dependencies:
-      ```
-      pip install -r requirements.txt
-      ```
-  4. Launch Jupyter Notebook:
+  3. Launch Jupyter Notebook or Python IDE:
       ```
       jupyter notebook
       ```
-  5. Open the relevant `.ipynb` files to begin analysis.
+  4. Open the relevant `.ipynb` files to begin analysis.
 
 ### 2. SQL Scripts
-- **Requirements:** MySQL, PostgreSQL, or another SQL-compatible database.
+- **Requirements:** MySQL or another SQL-compatible database.
 - **Setup:**
   - Set up the database using the schema SQL file (see Phase 1 deliverables).
   - Connect to your database with a SQL tool (e.g., DBeaver, MySQL Workbench).
@@ -45,10 +41,6 @@
 ---
 
 ## Project Progress
-
-**Phase 2: Advanced Python Analysis**
-- Conduct advanced data analysis, statistical testing, and machine learning (K-means clustering for patient segmentation).
-
 
 ## Current Progress
 **Phase 2: Advanced Python Analysis**  
