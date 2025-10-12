@@ -11,40 +11,6 @@
 
 **Machine Learning Models Used:** LabelEncoder
 
-## Installation and Usage Instructions
-
-### 1. Jupyter Notebook (.ipynb)
-- **Requirements:** Python 3.x, Jupyter, and required libraries (see `requirements.txt` if provided).
-- **Setup:**
-  1. Clone the repository:
-      ```
-      git clone https://github.com/HaiderrX/CISC4900-Healthcare-Dataset-Data-Analysis.git
-      cd CISC4900-Healthcare-Dataset-Data-Analysis
-      ```
-  2. (Optional) Create a virtual environment:
-      ```
-      python -m venv venv
-      source venv/bin/activate  # On Windows: venv\Scripts\activate
-      ```
-  3. Launch Jupyter Notebook or Python IDE:
-      ```
-      jupyter notebook
-      ```
-  4. Open the relevant `.ipynb` files to begin analysis.
-
-### 2. SQL Scripts
-- **Requirements:** MySQL or another SQL-compatible database (SQL Server Management Studio).
-- **Setup:**
-  - Set up the database using the schema SQL file (see Phase 1 deliverables).
-  - Connect to your database with a SQL tool (e.g., DBeaver, MySQL Workbench).
-  - Run the provided SQL scripts in order (refer to info/comments in the file) to create tables, insert data, and perform analysis.
-
-### 3. Final Report (PDF)
-- The report (`Heathcare_Data_Analysis_Report.pdf`) is provided in the `/docs` or root directory.
-- Open in any PDF viewer to read the methodologies, findings, and visualizations.
-
----
-
 ## Project Progress
 
 ## Current Progress
@@ -84,3 +50,37 @@
 - SQL query set and documented insights.  
 - Power BI dashboards.  
 - Final written report (LaTeX).  
+
+## Installation and Usage Instructions
+
+### 1. Jupyter Notebook (.ipynb)
+- **Requirements:** Python 3.x, Jupyter, and required libraries (see `requirements.txt` if provided).
+- **Setup:**
+  1. Clone the repository:
+      ```
+      git clone https://github.com/HaiderrX/CISC4900-Healthcare-Dataset-Data-Analysis.git
+      cd CISC4900-Healthcare-Dataset-Data-Analysis
+      ```
+  2. (Optional) Create a virtual environment:
+      ```
+      python -m venv venv
+      source venv/bin/activate  # On Windows: venv\Scripts\activate
+      ```
+  3. Launch Jupyter Notebook or Python IDE:
+      ```
+      jupyter notebook
+      ```
+  4. Open the relevant `.ipynb` files to begin analysis.
+
+### 2. SQL Scripts
+- **Requirements:** MySQL or another SQL-compatible database (SQL Server Management Studio).
+- **Setup:**
+  - Set up the database using the schema SQL file (see Phase 1 deliverables).
+  - Connect to your database with a SQL tool (e.g., DBeaver, MySQL Workbench).
+  - Run the provided SQL scripts in order (refer to info/comments in the file) to create tables, insert data, and perform analysis.
+
+### 3. Final Report (PDF)
+- The report (`Heathcare_Data_Analysis_Report.pdf`) is provided in the `/docs` or root directory.
+- Open in any PDF viewer to read the methodologies, findings, and visualizations.
+
+---
