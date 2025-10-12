@@ -13,7 +13,7 @@
 
 ## Project Progress
 
-## Current Progress
+**Current Progress:**
 **Phase 2: Advanced Python Analysis**  
 - Conduct higher-level data analysis including statistical testing.  
 - Implement machine learning techniques such as K-means clustering for patient segmentation or pattern discovery. 
