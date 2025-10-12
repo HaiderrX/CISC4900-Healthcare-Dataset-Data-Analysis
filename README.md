@@ -3,7 +3,7 @@
 **Author: Muhammad Ali**\
 **Supervisor: Moshe Lach**
 
-**Description:**This project is currently in development and follows a tentative plan for exploring, cleaning, transforming, and analyzing a healthcare dataset using **Python**, **SQL**, **Power BI**, and **LaTeX**. The workflow is structured into phases to provide a clear roadmap from raw data to a professional final report.  
+**Description:** This project is currently in development and follows a tentative plan for exploring, cleaning, transforming, and analyzing a healthcare dataset using **Python**, **SQL**, **Power BI**, and **LaTeX**. The workflow is structured into phases to provide a clear roadmap from raw data to a professional final report.  
 **Technologies Used:** Python, SQL, Power BI, Latex
 
 
