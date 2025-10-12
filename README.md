@@ -32,14 +32,14 @@
   5. Open the relevant `.ipynb` files to begin analysis.
 
 ### 2. SQL Scripts
-- **Requirements:** MySQL, PostgreSQL, or another SQL-compatible database (as specified in your project).
+- **Requirements:** MySQL, PostgreSQL, or another SQL-compatible database.
 - **Setup:**
   - Set up the database using the schema SQL file (see Phase 1 deliverables).
   - Connect to your database with a SQL tool (e.g., DBeaver, MySQL Workbench).
   - Run the provided SQL scripts in order (refer to info/comments in the file) to create tables, insert data, and perform analysis.
 
 ### 3. Final Report (PDF)
-- The report (`report.pdf`) is provided in the `/docs` or root directory.
+- The report (`Heathcare_Data_Analysis_Report.pdf`) is provided in the `/docs` or root directory.
 - Open in any PDF viewer to read the methodologies, findings, and visualizations.
 
 ---
