@@ -9,7 +9,7 @@
 
 **Python Libararies Used:** numpy, seaborn, scipy, matplotlib, pandas
 
-**Machine Learning Models Used:** LabelEncoder
+**Machine Learning Models Used:** LabelEncoder, StandardScaler, K-Means Clustering
 
 ## Project Progress
 
