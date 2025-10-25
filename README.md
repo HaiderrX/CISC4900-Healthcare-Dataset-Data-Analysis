@@ -67,6 +67,7 @@
 
 ### Written Report Folder:
 - Contains written report of analysis made so far in .pdf file using LaTeX
+- Contains SQL queries in a PDF format using LaTeX
 
 ## Installation and Usage Instructions
 
