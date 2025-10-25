@@ -14,9 +14,10 @@
 ## Project Progress
 
 **Current Progress:**
-**Phase 2: Advanced Python Analysis**  
-- Conduct higher-level data analysis including statistical testing.  
-- Implement machine learning techniques such as K-means clustering for patient segmentation or pattern discovery. 
+**Phase 3: SQL Query Analysis**  
+- Implement the database schema.  
+- Develop SQL queries to extract insights, perform joins, and generate aggregates.  
+- Document initial findings based on query outputs.  
 
 ## Project Phases
 
