@@ -125,3 +125,62 @@ SELECT 'Medical_Record', COUNT(*) FROM Medical_Record;
 
 -- Querying:
 
+-- Gender Count:
+SELECT gender, COUNT(*)
+FROM Patient
+GROUP BY gender;
+
+-- Patient Count
+SELECT COUNT(*) AS total_patients FROM Patient;
+
+-- Distinct Medical Conditions:
+SELECT DISTINCT medical_condition
+FROM Patient;
+
+-- Patients older than 65:
+SELECT medical_condition,
+       COUNT(*) AS number_of_patients_over_65
+FROM Patient
+WHERE age > 65
+GROUP BY medical_condition;
+
+-- Min/Max age:
+SELECT MIN(age) AS min_age, MAX(age) AS max_age
+FROM Patient;
+
+--Oldest Patients to youngest:
+SELECT patient_name,
+		age
+FROM Patient
+ORDER BY age DESC;
+
+-- Insurance Check
+SELECT DISTINCT insurance_provider
+FROM Billing;
+
+-- Top 10 oldest patient information:
+SELECT TOP 10 patient_name,
+			medical_condition,
+			age
+FROM Patient
+ORDER BY age DESC;
+
+-- Bottom 10 patient information:
+SELECT TOP 10 patient_name,
+			medical_condition,
+			age
+FROM Patient
+ORDER BY age;
+
+-- Blood Types + Patient Count:
+SELECT blood_type,
+		COUNT(*) as Patient_Count
+FROM Patient
+GROUP BY blood_type
+ORDER BY Patient_Count DESC;
+
+-- Average Age for both genders:
+SELECT AVG(age) as AverageAge, gender
+FROM Patient
+GROUP BY gender
+ORDER BY AverageAge DESC;
