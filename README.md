@@ -69,7 +69,7 @@
 - Contains written report of analysis made so far in .pdf file using LaTeX
 - Contains SQL queries in a PDF format using LaTeX
 
-## Installation and Usage Instructions
+## Installation and Usage Instructions (WORK IN PROGRESS, IGNORE THIS PART)
 
 ### 1. Jupyter Notebook (.ipynb)
 - **Requirements:** Python 3.x, Jupyter, and required libraries.
