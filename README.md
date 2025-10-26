@@ -67,6 +67,7 @@
 
 ### Written Report Folder:
 - Contains written report of analysis made so far in .pdf file using LaTeX
+- Contains Python segment written report using LaTeX
 - Contains SQL queries in a PDF format using LaTeX
 
 ## Installation and Usage Instructions (WORK IN PROGRESS, IGNORE THIS PART)
