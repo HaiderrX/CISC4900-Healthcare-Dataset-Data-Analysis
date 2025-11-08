@@ -14,10 +14,8 @@
 ## Project Progress
 
 **Current Progress:**
-**Phase 3: SQL Query Analysis**  
-- Implement the database schema.  
-- Develop SQL queries to extract insights, perform joins, and generate aggregates.  
-- Document initial findings based on query outputs.  
+- Connect SQL results or cleaned dataset to Power BI.  
+- Create interactive dashboards to visualize KPIs, trends, and comparisons.  
 
 ## Project Phases
 
