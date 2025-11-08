@@ -14,8 +14,9 @@
 ## Project Progress
 
 **Current Progress:**
+**Phase 4: Dashboard Development (Power BI)**  
 - Connect SQL results or cleaned dataset to Power BI.  
-- Create interactive dashboards to visualize KPIs, trends, and comparisons.  
+- Create interactive dashboards to visualize KPIs, trends, and comparisons.    
 
 ## Project Phases
 
