@@ -62,6 +62,7 @@
 
 ### Dashboard Folder:
 - Contains Power BI dashboard
+- Contains screenshots of dashboards in case viewer cannot download Power BI file
 
 ### Diagrams Folder:
 - Contains ER Diagram of tables that would be used for SQL
