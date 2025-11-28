@@ -7,7 +7,7 @@
 
 **Technologies Used:** Python, SQL, Power BI, LaTeX
 
-**Python Libararies Used:** numpy, seaborn, scipy, matplotlib, pandas
+**Python Libararies Used:** numpy, seaborn, scipy, scikit, matplotlib, pandas
 
 **Machine Learning Models Used:** LabelEncoder, StandardScaler, K-Means Clustering
 
