@@ -14,9 +14,9 @@
 ## Project Progress
 
 **Current Progress:**
-**Phase 4: Dashboard Development (Power BI)**  
-- Connect SQL results or cleaned dataset to Power BI.  
-- Create interactive dashboards to visualize KPIs, trends, and comparisons.    
+**Phase 5: Report Preparation (LaTeX)**  
+- Compile methodologies, SQL analyses, Python advanced analytics, and Power BI results.  
+- Write a professional academic-style report supported by figures and tables.  
 
 ## Project Phases
 
